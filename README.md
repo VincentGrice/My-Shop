@@ -4,7 +4,7 @@ To Develop an application that has a list of products with a specific category. 
 ### Why This Project?
 To become proficient and adapt previous learned skills towards C# ASP.NET.
 
-### What skills were used?
+### What skills are being used?
 * Object Orientated Programming (OOP)
 
 * Layered Architecture
